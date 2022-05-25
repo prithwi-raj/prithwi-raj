@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prithwi-raj
-- 👀 I’m interested in solving real world problems in product engineering. 
-- 🌱 I’m currently learning k8s, Helm
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m a product architect and interested to solve real world problems. 
+- 🌱 I’m experienced in k8s, Helm, Docker, GitLab CI/CD, Grafana, Graylog, Elasticsearch, Apache Solr, Prometheus, InfluxDB, Tensorflow, UI/UX Prototyping
+- 💞️ I’m looking to collaborate on architecting software product
 - 📫 You can reach me via https://www.linkedin.com/in/prithwi-raj/
 
 <!---
